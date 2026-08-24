@@ -1,4 +1,4 @@
-#profile-title: BON1CKvpn
+#profile-title: BON1CK
 vless://01eb3e01-4578-4eac-b1fe-63f0c7071767@de1.vps-vless.su:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=de1.vps-vless.su&fp=firefox&pbk=21Ua20v19jMQ0xm8oxK5Xm4s7FwgjtdztLh_LYG3xRM&sid=#Все сервера обходят белые списки!!!
 vless://01eb3e01-4578-4eac-b1fe-63f0c7071767@de1.vps-vless.su:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=de1.vps-vless.su&fp=firefox&pbk=21Ua20v19jMQ0xm8oxK5Xm4s7FwgjtdztLh_LYG3xRM&sid=#⚡️ Автовыбор
 vless://01eb3e01-4578-4eac-b1fe-63f0c7071767@de1.vps-vless.su:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=de1.vps-vless.su&fp=firefox&pbk=21Ua20v19jMQ0xm8oxK5Xm4s7FwgjtdztLh_LYG3xRM&sid=#🇩🇪 Германия
