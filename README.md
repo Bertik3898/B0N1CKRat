@@ -1,129 +1,15 @@
-
- <h3>Advanced and powerful Android device controlling tool with a wide range of features and capabilities</h3>
-  <h4>This software is exclusively designed for educational purposes ⚠️</h4>
-  <p>
-    <img src="images/logo.PNG" alt="logo" style="max-width: auto; height: auto;" />
-  </p>
-  <p>
-    <i>A multifunctional Telegram-based Android RAT without port forwarding</i>
-  </p>
-</div>
-
-<h2 align="center">Panel Screenshot</h2>
-<p align="center">
-  <img src="images/4.jpg" alt="Screenshot 1" style="max-width: 100%; height: auto;" />
-</p>
-
-## About DogeRat
-#### The ultimate Android device control tool, empowering you with seamless, secure, and limitless control over target device  
-#### DogeRat is powered by the latest and greatest technologies, ensuring a top-tier experience    
-#### DogeRat comprises primary components:
-- <strong>Server side:</strong> Powered by Node.js, Express.js, and Socket.IO
-- <strong>Android APK:</strong> Powered by Kotlin
-
-## Features
-- 🔴 Real time
-- 🌐 Custom web view
-- 🔔 Notification reader
-- 🔔 Notification sender (send custom notification that appears on target device with custom click link)
-- 🗨️ Show toast message on target device (Toasts are messages that appear in a box at the bottom of the device)
-- 📡 Receive information about SIM card provider
-- 📳 Vibrate target device
-- 🛰️ Receive device location
-- ✉️ Receive all target messages
-- ✉️ Send SMS with target device to any number
-- ✉️ Send SMS with target device to all of his/her contacts
-- 👤 Receive all target contacts
-- 💻 Receive list of all installed apps in target device
-- 📷 Capture main and front camera
-- 🎙 Capture microphone (with custom duration)
-- 📋 Receive last clipboard text
-- ✅️ Auto start after device boot
-- 🔐 Keylogger
-- ✨ Beautiful Telegram bot interface
-
-### DogeRat Paid Version Features
-- 🤖 Auto permission
-- 🔐 Encrypt/Decrypt (after encryption, victims will not be able to use their devices)
-- 🖥️ Screenshot (get screenshot from your victim device)
-- 🗨️ Spam message to all contacts after installation (set in APK)
-- 🔐 Injection (inject application automatically with any login or any page, unlimited)
-- 🔐 Open any phishing page in victim device
-- 📒 Gallery puller (get all photos available in gallery)
-- 🔤 Advanced keylogger
-- 📁 Receive any file or folder from target device
-- 📁 Delete any file or folder from target device
-- 📁 Powerful file manager
-- 🤖 Undetectable by antivirus
-- And more...
-
-<p align="center">
-  <a href="https://t.me/shivaya_dav">
-    <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
-  </a>
-  <a href="https://t.me/shivaya_dav">
-    <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
-  </a>
-  <a href="https://t.me/shivaya_dav">
-    <img src="https://img.shields Looking for a way to contact the developer or learn more about DogeRat? Reach out via our [Telegram channel](https://t.me/shivaya_dav):
-
-<div align="center">
-  <a href="https://t.me/shivaya_dav">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-  </a>
-</div>
-
-<h2 align="center">🔗 Contact and Social Media Accounts</h2>
-<p align="center">
-  <a href="https://t.me/shivaya_dav">
-    <img src="https://img.shields.io/badge/CONTACT-TELEGRAM-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
-  </a>
-  <a href="https://t.me/shivaya_dav">
-    <img src="https://img.shields.io/badge/CONTACT-INSTAGRAM-red?style=for-the-badge&logo=instagram" alt="Instagram Badge"/>
-  </a>
-  <a href="https://t.me/shivaya_dav">
-    <img src="https://img.shields.io/badge/CONTACT-TWITTER-blue?style=for-the-badge&logo=twitter" alt="Twitter Badge"/>
-  </a>
-  <a href="https://t.me/shivaya_dav">
-    <img src="https://img.shields.io/badge/CONTACT-YOUTUBE-red?style=for-the-badge&logo=youtube" alt="Youtube Badge"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Disclaimer-Important-red" alt="Important Disclaimer"/>
-</p>
-
-<p align="center">
-  <b><i>Note:</i></b> The developer provides no warranty with this software and will not be responsible for any direct or indirect damage caused by the usage of this tool. DogeRat is built for educational and internal use only.
-</p>
-
-<p align="center">
-  <b><i>Attention:</i></b> We do not endorse any illegal or unethical use of this tool. The user assumes all responsibility for the use of this software.
-</p>
-
-<p align="center">
-  <b><i>Important:</i></b> To prevent any fraudulent activity, please ensure that the Telegram handle is <a href="https://t.me/shivaya_dav"><code>@shivaya_dav</code></a>. Beware of scams and phishing attempts that use similar usernames or handles.
-</p>
-
-<p align="center">
-  <b><i>Thank you for using DogeRat - we hope it serves its intended purpose and helps you achieve your goals!</i></b>
-</p>
-
-<h1 align="center">Sponsorship</h1>
-<p align="center">If you find my work valuable, you can show your support by sponsoring me. Your contribution will help me maintain and improve my projects, and it will encourage me to create more useful content.</p>
-<p align="center">
-  <a href="https://t.me/shivaya_dav"><img src="https://img.shields.io/badge/-Buy%20me%20a%20coffee-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy me a coffee"></a>
-</p>
-
-<p align="center">Thank you to the following people for their support:</p>
-<div align="center">
-  <a href="https://github.com/shivaya-dav/DogeRat/stargazers">
-    <img src="https://reporoster.com/stars/dark/shivaya-dav/DogeRat" alt="Stargazers" title="Stargazers" width="400" height="auto">
-  </a>
-  <br>
-  -------------------------
-  <br>
-  <a href="https://github.com/shivaya-dav/DogeRat/network/members">
-    <img src="https://reporoster.com/forks/dark/shivaya-dav/DogeRat" alt="Forkers" title="Forkers" width="400" height="auto">
-  </a>
-</div>
+#profile-title: BON1CKvpn
+vless://01eb3e01-4578-4eac-b1fe-63f0c7071767@de1.vps-vless.su:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=de1.vps-vless.su&fp=firefox&pbk=21Ua20v19jMQ0xm8oxK5Xm4s7FwgjtdztLh_LYG3xRM&sid=#Все сервера обходят белые списки!!!
+vless://01eb3e01-4578-4eac-b1fe-63f0c7071767@de1.vps-vless.su:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=de1.vps-vless.su&fp=firefox&pbk=21Ua20v19jMQ0xm8oxK5Xm4s7FwgjtdztLh_LYG3xRM&sid=#⚡️ Автовыбор
+vless://01eb3e01-4578-4eac-b1fe-63f0c7071767@de1.vps-vless.su:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=de1.vps-vless.su&fp=firefox&pbk=21Ua20v19jMQ0xm8oxK5Xm4s7FwgjtdztLh_LYG3xRM&sid=#🇩🇪 Германия
+vless://01eb3e01-4578-4eac-b1fe-63f0c7071767@de2.vss-mess.online:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=de2.vss-mess.online&fp=firefox&pbk=i469Lq0yN8n_TxV4bLEja_4s2ThENfGr1c3HWshCgGw&sid=#🇩🇪 Германия 2
+vless://01eb3e01-4578-4eac-b1fe-63f0c7071767@pl1.vss-mess.online:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=pl1.vss-mess.online&fp=firefox&pbk=LRgutZuL5xASrdgqJOMolHMdtEKq9Zn_bzq2oB95Si8&sid=#🇵🇱 Польша
+vless://01eb3e01-4578-4eac-b1fe-63f0c7071767@md1.vss-mess.online:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=md1.vss-mess.online&fp=firefox&pbk=tKPYfgCB6rlOhpo-GsjPyG7tqUHsFTmOZO43YOyY0xE&sid=#🇲🇩 Молдова
+vless://01eb3e01-4578-4eac-b1fe-63f0c7071767@nl1.vss-mess.online:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=nl1.vss-mess.online&fp=firefox&pbk=Kz5tG2didYuoe7R1cGomXa8g_oD4hK9Kbmtl-XIkBgA&sid=#🇳🇱 Нидерланды
+vless://01eb3e01-4578-4eac-b1fe-63f0c7071767@nl2.vss-mess.online:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=nl2.vss-mess.online&fp=firefox&pbk=fxxLzfhMqMdQ78IyAS2QSkWlQwxqGvsZU5vfHpIvkwY&sid=#🇳🇱 Нидерланды 2
+vless://01eb3e01-4578-4eac-b1fe-63f0c7071767@es1.vss-mess.online:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=es1.vss-mess.online&fp=firefox&pbk=OqqyfyRUS7T61pHh7lIbWIeNrT1IOjQn1g9QaHg5bQM&sid=#🇪🇸 Испания
+vless://01eb3e01-4578-4eac-b1fe-63f0c7071767@se2.vss-mess.online:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=se2.vss-mess.online&fp=firefox&pbk=dEJVlYRcvydKBKjcUJb27rCew3iBkZFHe_rtt6OBDEg&sid=#🇸🇪 Швеция
+vless://01eb3e01-4578-4eac-b1fe-63f0c7071767@fl2.vps-vless.su:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=fl2.vps-vless.su&fp=firefox&pbk=7_I9dtriqTufthvUd6qQgPAWP4hdzdrsct1H57P2ixE&sid=#🇫🇮 Финляндия
+vless://01eb3e01-4578-4eac-b1fe-63f0c7071767@ee1.vss-mess.online:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=ee1.vss-mess.online&fp=firefox&pbk=BlW8l9eRJAhyd-5sZQn_QASIIcT45W8JnPNwxjN84Cw&sid=#🇪🇪 Эстония
+vless://01eb3e01-4578-4eac-b1fe-63f0c7071767@us2.vss-mess.online:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=us2.vss-mess.online&fp=firefox&pbk=s7lvnJJHQCvjDiyZcB1c1nN1rouDjmTIwr3uv40mpmo&sid=#🇺🇸 США
+vless://01eb3e01-4578-4eac-b1fe-63f0c7071767@ru1.vss-mess.online:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=ru1.vss-mess.online&fp=firefox&pbk=wGxPucQaMuLj2mKubbZUxe0UMhg_EISTAL54x4NZpFM&sid=#🇷🇺 Россия (Youtube без рекламы)
